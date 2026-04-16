@@ -5,7 +5,7 @@ D3 heat map of monthly global land-surface temperature anomalies, built for the 
 ## Features
 
 - SVG heat map grid with years on the x-axis (1753–2015) and months on the y-axis
-- Quantile color scale across 9 blue shades mapping temperature variance to cell fill
+- Quantile color scale using 9 hardcoded blue shades mapping temperature variance to cell fill
 - X-axis labeled every 10 years; y-axis labeled with full month names
 - Hover tooltip showing absolute temperature and variance for each cell
 - Color legend with quantile boundary labels rendered below the main chart
